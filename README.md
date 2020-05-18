@@ -47,7 +47,7 @@ Here are the parameters the user should be aware before starting the program:
 
 ## Step details
 
-![MapReduceImage](https://github.com/savoga/various_projects/blob/master/MapReduce/MapReducePic.png)
+![MapReduceImage](https://github.com/savoga/mapreduce-from-scratch/blob/master/MapReducePic.png)
 
 #### SPLIT
 
